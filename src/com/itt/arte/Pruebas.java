@@ -3,7 +3,7 @@ package com.itt.arte;
 public class Pruebas {
 
 	public static void main(String[] args) {
-//Hola desde mi casa by Miguel.
+//Hola desde mi casa by Miguel2.
 // Hola desde tomillo, thuglife
 		int x;
 		
