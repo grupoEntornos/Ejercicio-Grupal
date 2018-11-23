@@ -5,6 +5,7 @@ public class Pruebas {
 	public static void main(String[] args) {
 //Hola desde mi casa by Miguel2.
 // Hola desde tomillo, thuglife
+//Hola, soy Jeny
 		int x;
 		
 		x=(int)(Math.random()*20+1);
